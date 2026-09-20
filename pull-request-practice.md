@@ -10,3 +10,6 @@
 ## 我的理解
 
 Pull Request 用于提交合并请求，让修改在进入主分支前可以被检查和讨论。
+## Issue 关联
+
+本次修改用于练习 Issue、Pull Request 和 Code Review 的关系。
